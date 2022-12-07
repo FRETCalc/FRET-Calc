@@ -20,9 +20,9 @@ Förster Resonance Energy Transfer Calculator (FRET-Calc) is a Python GUI softwa
 
 
 # Main developers
-* [Leandro Benatto]()
-* [Omar Mesquita]()
-* [Graziâni Candiotto]()
+* [Leandro Benatto](https://github.com/LeandroBenatto)
+* [Omar Mesquita](https://github.com/OmarMesqq)
+* [Graziâni Candiotto](https://github.com/gcandiotto)
 
 ## Dependencies
   >
