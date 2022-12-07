@@ -52,6 +52,9 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
   > openpyxl
 
 # Data-Sample
-This directory contains a exemple of data set needed to use the FRET-calc software
+This directory contains a exemple of data set needed to use the FRET-calc software.
 
 # Spectral-Data
+## Emission
+## Extinction coefficient
+## Refractive Index
