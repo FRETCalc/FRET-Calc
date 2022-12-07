@@ -17,11 +17,7 @@ Förster Resonance Energy Transfer Calculator (FRET-Calc) is a Python GUI softwa
   <li>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil</li>
   <li>Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), Campinas, São Paulo, 13083-100, Brazil.</li>
 </ol> 
-<ol type="a">
- <li>This is</li>
- <li>a letter</li>
- <li>list</li>
-</ol>
+
 # Main developers
 * [Leandro Benatto](https://github.com/LeandroBenatto)
 * [Omar Mesquita](https://github.com/OmarMesqq)
