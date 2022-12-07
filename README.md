@@ -52,4 +52,4 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
   > openpyxl
 
 # Data-Sample
-This directory contains a set of sample data that is needed to use the fretcalc software
+This directory contains a exemple of data set needed to use the FRET-calc software
