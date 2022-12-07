@@ -54,4 +54,4 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
 # Data-Sample
 This directory contains a exemple of data set needed to use the FRET-calc software
 
-#Spectral-Data
+# Spectral-Data
