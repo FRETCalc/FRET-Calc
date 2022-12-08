@@ -67,3 +67,7 @@ This directory contains some data for refrative index for different molecules.
   > pyinstaller
   > 
   > openpyxl
+
+# Cited by
+
+Papers recently cited FRET-Calc are shown below.
