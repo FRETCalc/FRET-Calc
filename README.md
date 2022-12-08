@@ -5,7 +5,7 @@ Förster Resonance Energy Transfer Calculator (FRET-Calc) is a Python GUI softwa
 FRET-Calc has a free license. The software executables are available for download on [*Unix*](https://github.com/FRETCalc/FRET-Calc/releases/tag/Unix-v1.0-alpha), [*Windows*](https://github.com/FRETCalc/FRET-Calc/releases/tag/Windows-v1.0-alpha) and [*macOS*](https://github.com/FRETCalc/FRET-Calc/releases/tag/macOS-v1.0-alpha) operational systems.
 
 How to refer to the FRET-Calc program in publications:
-FRET parameters were calculated using the FRET-Calc program (link).
+FRET parameters were calculated using the FRET-Calc program (article link).
 
 # Authors
 * [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>a,b</sup>
