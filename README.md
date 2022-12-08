@@ -56,6 +56,10 @@ This directory contains a exemple of data set needed to use the FRET-calc softwa
 
 # Spectral-Data
 ## Emission
-This directory contains some emission spectra for different molecules
+This directory contains some data for emission spectra for different molecules.
+
 ## Extinction coefficient
+This directory contains some data fot extinction coefficient for different molecules.
+
 ## Refractive Index
+This directory contains some data for refrative index for different molecules.
