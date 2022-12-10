@@ -8,7 +8,7 @@ FRET-Calc has a free license. The software executables are available for downloa
 **How to refer to the FRET-Calc program in publications:**
 FRET parameters were calculated using the FRET-Calc program (article link).
 
-Find out more about our research group: https://dineufpr.wixsite.com/dineufpr
+Find out more about our research group: [*Dine*](https://dineufpr.wixsite.com/dineufpr)
 
 # Authors
 * [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>a,b</sup>
