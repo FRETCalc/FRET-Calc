@@ -41,13 +41,13 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
 # Spectral-Data
 
 ## Emission
-This directory contains some data for the emission spectra of different molecules.
+[This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/spectral-data/Emission) contains some data for the emission spectra of different molecules.
 
 ## Extinction coefficient
-This directory contains some data for the extinction coefficient of different molecules.
+[This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/spectral-data/Extinction%20coefficient) contains some data for the extinction coefficient of different molecules.
 
 ## Refractive Index
-This directory contains some data for the refractive index of different molecules.
+[This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/spectral-data/Refractive%20Index) contains some data for the refractive index of different molecules.
 
 # Cited by
 
