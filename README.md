@@ -31,9 +31,6 @@ FRET parameters were calculated using the FRET-Calc program.
 * [Omar Mesquita](https://github.com/OmarMesqq)
 * [Graziâni Candiotto](https://github.com/gcandiotto)
 
-# Acknowledgments
-The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LCNano/SisNANO 2.0 (grant 442591/2019-5). L.B. (grant E-26/202.091/2022 process 277806)  and G.C. (grant E-26/200.627/2022 and E-26/210.391/2022 process 271814) are greatfully for financial support from FAPERJ. The authors also acknowledge the computational support of Núcleo Avançado de Computação de Alto Desempenho (NACAD/COPPE/UFRJ), Sistema Nacional de Processamento de Alto Desempenho (SINAPAD) and Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP) and technical support of SMMOL - solutions in functionalyzed materials.
-
 # Data-Sample
 * [This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/data-sample) contains an example of the data set needed to run the FRET-Calc software.
 
@@ -47,6 +44,9 @@ The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LC
 
 ## Refractive Index
 * [This directory](https://github.com/FRETCalc/FRET-Calc/tree/main/spectral-data/Refractive%20Index) contains some data for the refractive index of different molecules.
+
+# Acknowledgments
+The authors acknowledge financial support from CNPq (grant 381113/2021-3) and LCNano/SisNANO 2.0 (grant 442591/2019-5). L.B. (grant E-26/202.091/2022 process 277806)  and G.C. (grant E-26/200.627/2022 and E-26/210.391/2022 process 271814) are greatfully for financial support from FAPERJ. The authors also acknowledge the computational support of Núcleo Avançado de Computação de Alto Desempenho (NACAD/COPPE/UFRJ), Sistema Nacional de Processamento de Alto Desempenho (SINAPAD) and Centro Nacional de Processamento de Alto Desempenho em São Paulo (CENAPAD-SP) and technical support of SMMOL - solutions in functionalyzed materials.
 
 # Cited by
 
